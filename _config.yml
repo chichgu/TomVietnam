@@ -15,12 +15,12 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
+title:       "TOM Vietnam - using design and technology to address neglected problems"
+keywords:    "Tikum Olam Makers, Fablab Saigon, Making good"
+description: "Bringing the first TOM event to Vietnam, to use design and technology to addres neglected problems"
+source_link: "https://github.com/chichgu/TomVietnam"
+favicon:     "img/favicon.ico"
+touch_icon:  # "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
 
@@ -33,4 +33,6 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
-  
+  tomblue:   '#0091b7'
+  tomgreen:  '#8cbd22'
+  tomorange: '#e84e23' 
