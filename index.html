@@ -37,7 +37,11 @@
         <div class="subtlecircle sectiondivider faicon">
           <span class="fa-stack">
             <i class="fa fa-circle fa-stack-2x"></i>
+		{% if page.icon-color %}
+            <i style="color: {{ page.icon-color }}" class="fa fa-{{ page.fa-icon }} fa-stack-1x"></i>
+		{% else %}
             <i class="fa fa-{{ page.fa-icon }} fa-stack-1x"></i>
+		{% endif %}
           </span>
           <h5 class="icon-title">{{ page.title }}</h5>
         </div>
