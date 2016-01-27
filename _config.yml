@@ -15,9 +15,9 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "TOM Vietnam - using design and technology to address neglected problems"
-keywords:    "Tikum Olam Makers, Fablab Saigon, Making good"
-description: "Bringing the first TOM event to Vietnam, to use design and technology to addres neglected problems"
+title:       "TOM Vietnam - 72 hours to change the world"
+keywords:    "Tikum Olam Makers, Vietnam, makers, Fablab Saigon, Making good, Unicef, children, drd, disabilities"
+description: "Bringing the first TOM event to Vietnam, to use design and technology to address neglected problems for children with disabilities"
 source_link: "https://github.com/chichgu/TomVietnam"
 favicon:     "/img/favicon.ico"
 touch_icon:  # "/img/apple-touch-icon.png"
